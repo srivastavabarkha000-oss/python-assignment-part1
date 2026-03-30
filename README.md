@@ -1,7 +1,8 @@
 #assignment03_bitsom_ba_2511918_python-assignment-part1
 
 Part 1: Python Basics &amp; Control Flow
-Theme: Student Grade Tracker
+
+/nTheme: Student Grade Tracker
 Build a command-line Student Grade Tracker that manages student data, computes results, and provides a summary report — all using core Python concepts.
 Task 1: Data Parsing & Profile Cleaning
 Task 2: Marks Analysis Using Loops & Conditionals
